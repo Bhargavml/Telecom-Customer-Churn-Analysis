@@ -109,14 +109,13 @@ Key findings from the analysis include:
 ```
 telecom-customer-churn-analysis-dashboard
 │
-├── data
-│   └── telecom_churn_dataset.xlsx
+├──  telecom_churn_dataset.xlsx
 │
-├── dashboard
-│   └── churn_dashboard.xlsx
+├── churn_dashboard.xlsx
 │
-├── screenshots
-│   └── dashboard.png
+├── dashboard.png
+│
+├── telecom_churn_dataset.pdf
 │
 └── README.md
 ```
