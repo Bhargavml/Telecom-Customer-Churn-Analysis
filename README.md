@@ -91,7 +91,7 @@ Key findings from the analysis include:
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](screenshots/dashboard.png)
+![Dashboard Screenshot](dashboard.png)
 
 ---
 
